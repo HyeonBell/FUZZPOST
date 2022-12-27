@@ -11,10 +11,11 @@ Swagger API 2.1 json of Postman fuzzing Variable setup tool
 1. POSTMAN Export Collection v2.1 
 2. Run FUZZPOST.py 
 3. Import json file at FUZZPOST
-4. Run POSTMAN
-5. *original_name*_fuzz.json file import to POSTMAN
-6. load Data .csv file at Collection Runner Data
-7. Run Collection
+4. Get *original_name*_fuzz.json file at FUZZPOST
+5. Run POSTMAN
+6. *original_name*_fuzz.json file import to POSTMAN
+7. load Data .csv file at Collection Runner Data
+8. Run Collection
 ```
 
 ## Info
@@ -22,7 +23,7 @@ Swagger API 2.1 json of Postman fuzzing Variable setup tool
 - First colum must to be placed fuzzing variable name ex) fuzzParam
 
 ```
-FuzzingDataVar
+fuzzParam
 1
 2
 3
