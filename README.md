@@ -61,4 +61,4 @@ fuzzParam
 
 ## Reference
 - https://medium.com/@Magii/fuzzing-with-postman-599dce6317c7
-
+- https://learning.postman.com/docs/sending-requests/variables/
