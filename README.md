@@ -39,4 +39,4 @@ fuzzParam
 ```
 
 ## Reference
-- [https://medium.com/@Magii/fuzzing-with-postman-599dce6317c7]
+- https://medium.com/@Magii/fuzzing-with-postman-599dce6317c7
