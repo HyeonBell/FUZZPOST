@@ -1,11 +1,14 @@
 # FUZZPOST
 
 Swagger API 2.1 json of Postman fuzzing Variable setup tool
+
+
 Welcome contribute to this repo!
 
 ---
 
 ## How To Postman Fuzzing
+
 
 ### Whole process
 ```
@@ -20,6 +23,8 @@ Welcome contribute to this repo!
 ```
 
 ## Info
+
+
 ### .csv file format 
 - First colum must to be placed fuzzing variable name ex) fuzzParam
 
