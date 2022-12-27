@@ -8,15 +8,17 @@ Swagger API 2.1 json of Postman fuzzing Variable setup tool
 ### Whole process
 ```
 1. POSTMAN Export Collection v2.1 
-2. Run Program
+2. Run FUZZPOST
 3. Import json file 
-4. *original_name*_fuzz.json file import to POSTMAN
-5. load Data .csv file at Collection Runner Data
-6. Run Collection
+4. Run POSTMAN
+5. *original_name*_fuzz.json file import to POSTMAN
+6. load Data .csv file at Collection Runner Data
+7. Run Collection
 ```
 
 ### .csv file format 
 - First colum must to be placed fuzzing variable name ex) fuzzParam
+
 ```
 FuzzingDataVar
 1
@@ -25,7 +27,7 @@ FuzzingDataVar
 4
 5
 6
-``
+```
 
 ### Reference
 - [https://medium.com/@Magii/fuzzing-with-postman-599dce6317c7]
