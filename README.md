@@ -9,6 +9,24 @@ Welcome contribute to this repo!
 
 ## How To Postman Fuzzing
 
+### Sample Running
+```
+PS C:\Users\hjshin\Desktop\archive\code> python FUZZPOST.py
+fuzz method ? > (y/default:N)
+fuzz url ? > (y/default:N)
+fuzz header ? > (y/default:N)
+fuzz body ? > (default:Y/n)
+.json file path? >  postman_collection_1227_2_2.json
+fuzzparam variable name ? (default:{{fuzzParam}})
+ex) {{vairable}}
+you can default value, just input "d"  > d
+
+...
+
+[*] saved postman_collection_1227_2_2_fuzz.json
+
+```
+
 
 ### Whole process
 ```
