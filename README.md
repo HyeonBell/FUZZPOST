@@ -8,8 +8,6 @@ Enjoy some coffee while fuzzing!
 
 ---
 
-*Welcome contribute to this repo!*
-
 ## How To Postman Fuzzing
 
 ### Sample Running
